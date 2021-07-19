@@ -1,0 +1,26 @@
+[
+  {
+    "_id": 0,
+    "name": "Nicole Simmons",
+    "age": "Age: 26",
+    "image": "https://randomuser.me/api/portraits/women/19.jpg"
+  },
+  {
+    "_id": 1,
+    "name": "Edna Dixon",
+    "age": "Age: 30",
+    "image": "https://randomuser.me/api/portraits/women/4.jpg"
+  },
+  {
+    "_id": 2,
+    "name": "Amy Watkins",
+    "age": "Age: 33",
+    "image": "https://randomuser.me/api/portraits/women/36.jpg"
+  },
+  {
+    "_id": 3,
+    "name": "Anna Helser",
+    "age": "Age: 33",
+    "image": "https://randomuser.me/api/portraits/women/33.jpg"
+  }
+]

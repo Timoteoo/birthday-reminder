@@ -1,0 +1,24 @@
+.person {
+  display: flex;
+  margin: 20px 0;
+  align-items: center;
+}
+
+.person img {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+}
+
+.personInfo {
+  margin-left: 10px;
+}
+
+.personInfo p {
+  font-weight: bold;
+}
+
+.personInfo small {
+  font-weight: bold;
+  color: #505050;
+}

@@ -7,12 +7,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  color: white;
   font-family: mainFont;
 }
 
 html,
 body {
   height: 100%;
-  background-color: rgb(27, 28, 34);
+  background-color: rgb(29, 28, 37);
 }
