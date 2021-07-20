@@ -1,6 +1,6 @@
 # birthday-reminder
 
-Birthday reminder made with React.
+Birthday reminder made with React, uses `useState` hook.
 
 ## How to run
 
