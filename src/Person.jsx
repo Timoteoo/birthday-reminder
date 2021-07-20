@@ -3,7 +3,7 @@ import "./Person.css"
 const Person = ({ image, name, age }) => {
   return (
     <div className="person">
-      <img src={image}></img>
+      <img alt="Person" src={image}></img>
       <div className="personInfo">
         <p>{name}</p>
         <small>{age}</small>

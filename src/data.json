@@ -22,5 +22,11 @@
     "name": "Anna Helser",
     "age": "Age: 33",
     "image": "https://randomuser.me/api/portraits/women/33.jpg"
+  },  
+  {
+    "_id": 4,
+    "name": "Bruno Arial",
+    "age": "Age: 45",
+    "image": "https://randomuser.me/api/portraits/men/31.jpg"
   }
 ]
